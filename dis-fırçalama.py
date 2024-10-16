@@ -1,9 +1,18 @@
-def banka_algoritmasi():
-    print("Kartı ATM’ye yerleştir.")
-    print("Şifreni gir.")
-    print("Çekmek istediğin para miktarını seç.")
-    print("Hesabında yeterli bakiye olup olmadığını kontrol et.")
-    print("Eğer yeterli bakiye varsa, parayı çek.")
-    print("Kartı geri al ve makbuzu al.")
-    print("İşlemi sonlandır.")
-    banka_algoritmasi()
+def dis_fircalama():
+    print("Diş Fırçalama Uygulamasına Hoş Geldiniz!")
+
+    input("Diş fırçanızı ve diş macununuzu hazırlayın. Devam etmek için Enter'a basın...")
+
+    print("Diş macununuzu fırçanın üzerine koyun.")
+
+    input("Dişlerinizi fırçalamaya başlayın. Devam etmek için Enter'a basın...")
+
+    print("Dişlerinizi 2 dakika fırçalayın.")
+
+    input("Fırçalamayı bitirdikten sonra ağzınızı durulayın. Devam etmek için Enter'a basın...")
+
+    print("Diş fırçalama işlemi tamamlandı!")
+
+
+# Diş fırçalama uygulamasını başlat
+dis_fircalama()

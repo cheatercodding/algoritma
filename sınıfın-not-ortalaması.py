@@ -20,6 +20,6 @@ def calculate_class_average(grades):
     return average
 
 #kullanım şekli
-grades = [80, 70, 90, 85, 75]
+grades = [50, 60, 90, 85, 75]
 average = calculate_class_average(grades)
 print(f"Sınıf ortalaması: {average:.2f}")

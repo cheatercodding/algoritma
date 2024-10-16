@@ -1,10 +1,12 @@
 
 def el_yikama():
-    print("El yıkama adımlarını takip edin:")
-    print("1. Ellerini su ile ıslat.")
-    print("2. Sabun kullan.")
-    print("3. Ellerini fırçala.")
-    print("4. Durula.")
-    print("5. Kurula.")
-    # Fonksiyonu bir kez çağır
-    el_yikama()
+    print("El yıkama işlemine başla.")
+    print("Ellerini su ile ıslat.")
+    print("Sabun al ve ellerine sür.")
+    print("Ellerini en az 20 saniye boyunca ovarak köpürt.")
+    print("Su ile sabunu iyice durula.")
+    print("Ellerini temiz bir havlu ile kurula.")
+    print("El yıkama işlemi tamamlandı.")
+
+# Fonksiyonu bir kez çağır
+el_yikama()

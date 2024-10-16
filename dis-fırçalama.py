@@ -1,10 +1,17 @@
-def dis_fırcalama():
-    print("Diş fırçalama uygulamasını hoş geldiniz!")
-    input("Diş fırçanızı ve diş macununuzu hazırlayın. Devam etmek için Enter'a basın..")
-    print("Diş macununu fırçanın üstüne koyun.")
-    input("dişlerinizi fırçlamaya başlayın. Devam etmek için enter'a basın... ")
-    print("Dişlerinizi 2 dakkika fırçalayın.")
+def dis_fircalama():
+    print("Diş Fırçalama Uygulamasına Hoş Geldiniz!")
+    
+    input("Diş fırçanızı ve diş macununuzu hazırlayın. Devam etmek için Enter'a basın...")
+    
+    print("Diş macununuzu fırçanın üzerine koyun.")
+    
+    input("Dişlerinizi fırçalamaya başlayın. Devam etmek için Enter'a basın...")
+    
+    print("Dişlerinizi 2 dakika fırçalayın.")
+    
     input("Fırçalamayı bitirdikten sonra ağzınızı durulayın. Devam etmek için Enter'a basın...")
+    
     print("Diş fırçalama işlemi tamamlandı!")
-    # Uygulamayı başlat
-    dis_fırcalama()
+
+# Diş fırçalama uygulamasını başlat
+dis_fircalama()

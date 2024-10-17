@@ -1,9 +1,7 @@
-# Bankadan Para Çekme Algoritması
+### banka dan para çekme  algoritması
+1. ilk önce bankaya kartı sokup hesap bilgilerini giriyoruz.
+2. istediğimiz işlemi seçip mesela para çekme.
+3. çekilecek miktarı giriyoruz eğer yeterli bakiye varsa parayı çekiyoruz.
+4. sonrasında otomatik olarak bakiye ekranda kalan bakiye geliyor.
+5. işlem tamamlandı kartı verip makbuz kesiyor. 
 
-1. Kullanıcı Girişi: Kullanıcının hesap bilgilerini ve şifresini doğru girdiğinden emin ol.
-2. Bakiye Kontrolü: Hesaptaki mevcut bakiye kontrol edilir.
-3. Çekilecek Miktarı Girme: Kullanıcıdan para çekme miktarı istenir.
-4. Bakiye Kontrolü: Çekilecek miktar mevcut bakiyeden fazla mı kontrol edilir.
-5. Para Çekme İşlemi: Bakiye yeterliyse, bakiyeden para çekilir.
-6. Bakiye Güncellemesi: Yeni bakiye ekrana yazdırılır.
-7. Çıkış: Kullanıcı, işlemi tamamladığında çıkış yapılır.

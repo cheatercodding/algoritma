@@ -1,4 +1,4 @@
-def banka_algoritması():
+def banka_algoritmasi():
     print("Kartı ATM’ye yerleştir.")
     print("Şifreni gir.")
     print("Çekmek istediğin para miktarını seç.")
@@ -6,6 +6,4 @@ def banka_algoritması():
     print("Eğer yeterli bakiye varsa, parayı çek.")
     print("Kartı geri al ve makbuzu al.")
     print("İşlemi sonlandır.")
-
-# Fonksiyonu bir kez çağır
-banka_algoritması()
+    banka_algoritmasi()
